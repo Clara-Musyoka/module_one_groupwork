@@ -46,7 +46,7 @@ This project is a web application for Delani studio that shows details about the
 
 ## Contact Information
 
-If you have any question or contributions, please email me at [musyokamusenya@gmail.com]
+If you have any question or contributions, please email me at [musyokamusenya@gmail.com][elsiedeby@gmail.com] [josphatmochache@gmail.com] [isaac.tegei@gmail.com]
 
 ## License
 
